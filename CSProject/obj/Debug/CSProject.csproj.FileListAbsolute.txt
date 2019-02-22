@@ -1,0 +1,7 @@
+C:\Users\Paul\source\repos\CSProject\CSProject\bin\Debug\CSProject.exe.config
+C:\Users\Paul\source\repos\CSProject\CSProject\bin\Debug\CSProject.exe
+C:\Users\Paul\source\repos\CSProject\CSProject\bin\Debug\CSProject.pdb
+C:\Users\Paul\source\repos\CSProject\CSProject\obj\Debug\CSProject.csprojAssemblyReference.cache
+C:\Users\Paul\source\repos\CSProject\CSProject\obj\Debug\CSProject.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\CSProject\CSProject\obj\Debug\CSProject.exe
+C:\Users\Paul\source\repos\CSProject\CSProject\obj\Debug\CSProject.pdb
